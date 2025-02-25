@@ -1,4 +1,4 @@
-Esse projeto foi baseado em um video do Youtube (<https://www.youtube.com/watch?v=oNjkDTOj-n8> - Link do video, do canal AsmrProg), onde demonstra em JAVASCRIPT como fazer o jogo tetris.
+Esse projeto foi baseado em um video do Youtube (<https://www.youtube.com/watch?v=oNjkDTOj-n8> - Link do video, do canal AsmrProg), onde demonstra em JAVASCRIPT, como fazer o jogo tetris.
 
 Tutorial do Jogo:
 
@@ -15,5 +15,3 @@ Tecla R = Reinicia o jogo
 
 Mais sobre o jogo:
 Quando mais linha você avança (linhas completas por blocos) mais vai aumentando a dificuldade, fazendo os blocos caírem mais rapidamente
-
-Esse é o projeto do jogo Tetris
