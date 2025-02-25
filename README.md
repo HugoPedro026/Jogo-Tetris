@@ -16,4 +16,4 @@ Tecla R = Reinicia o jogo
 Mais sobre o jogo:
 Quando mais linha você avança (linhas completas por blocos) mais vai aumentando a dificuldade, fazendo os blocos caírem mais rapidamente
 
-![image alt]([imagem_url](https://github.com/HugoPedro026/Jogo-Tetris/blob/d75e99da6ed32178386b63455f7939df931e8416/Captura.PNG))
+![imagem_url](https://github.com/HugoPedro026/Jogo-Tetris/blob/d75e99da6ed32178386b63455f7939df931e8416/Captura.PNG)
