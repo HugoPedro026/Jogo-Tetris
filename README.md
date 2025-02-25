@@ -10,10 +10,10 @@ Seta para cima = roda os blocos
 
 Seta para baixo = desce mais rápido, os blocos
 
+Tecla R = Reinicia o jogo
 
 
 Mais sobre o jogo:
-
 Quando mais linha você avança (linhas completas por blocos) mais vai aumentando a dificuldade, fazendo os blocos caírem mais rapidamente
 
 Esse é o projeto do jogo Tetris
